@@ -1,0 +1,4 @@
+xsuite
+jupyterlab
+numpy
+matplotlib
