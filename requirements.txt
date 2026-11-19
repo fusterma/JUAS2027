@@ -2,4 +2,4 @@ xsuite
 jupyterlab
 numpy
 matplotlib
-lib_JUAS2026
+
