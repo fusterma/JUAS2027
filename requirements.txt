@@ -1,4 +1,4 @@
-xsuite==0.69
+xsuite
 jupyterlab
 numpy
 matplotlib
